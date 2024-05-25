@@ -13,6 +13,7 @@ root.render(
 
       <h3>weather App</h3>
       <WeatherSearch />
+      <a href="https://github.com/zarzani/React-App" target="_blank"> my GitHub Link target="_blank" attribute </a>
       </div>
   </React.StrictMode>
 );
